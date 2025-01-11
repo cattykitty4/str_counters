@@ -6,7 +6,7 @@ This programm creates list and finds indices of previous occurrences in words. F
 This might be helpful in searching unique wors in text. 
 Programm awaits that input in def will be have sting type of data.
 
-# Exaple
+# Example
 Input: One Ring to rule them all One Ring to find them One Ring to bring them all and in the darkness bind them
 Output: -1, -1, -1, -1, -1, -1, 0, 1, 2, -1, 4, 6, 7, 8, -1, 10, 5, -1, -1, -1, -1, -1, 15
 
